@@ -12,6 +12,7 @@ Full history ->  https://www.vogons.org/viewtopic.php?f=63&t=76647
 - 325VL-000 initial draft
 - 765VL-000 spinoff of 325VL-000 included bug fixing (DDC interface, config strap ), removed discrete adress decoder
 - 325VL-001 added SAUP2 delaying, added s3d logo
+- 765VL-001 (only future use,  remove debug-part with LED, SOIC-24 instead TSSOP-24, added Diode for VGA 5V+ DDC )
 
 # Feartures
 - S3 Trio64V+ video chipset 
