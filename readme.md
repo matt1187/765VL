@@ -39,8 +39,8 @@ It has debug function and isn't required for working of card.
 
 # Bill of material
 
-- [![](https://github.com/matt1187/765VL/blob/main/gerber/765VL000.csv')](#bom)
-- [![Config strap (R100-R150 ), here a picture of config strap resistor ](https://github.com/matt1187/765VL/blob/main/pictures/765VL_configstrap.jpg)
+- [![csv-file ](https://github.com/matt1187/765VL/blob/main/gerber/765VL000.csv')]
+- [![Config strap (R100-R150 ), here a picture of config strap resistor ](https://github.com/matt1187/765VL/blob/main/pictures/)
 
 # driver & ROM 
 - [![fastest ROM for Trio64V+ VLB, 0 WS](https://github.com/matt1187/765VL/blob/main/rom/highspeed_ROM.zip)]
@@ -51,9 +51,10 @@ It has debug function and isn't required for working of card.
 - [![Windows NT 3.51 driver](https://github.com/matt1187/765VL/blob/main/driver/STB_Powergraph64V_drivers_WINNT4_from_S3.zip)]
 - [![Windows NT 4 driver](https://github.com/matt1187/765VL/blob/main/driver/STB_Powergraph64V_drivers_WINNT351_from_S3.zip)]
 
-#note
+# note
 all component with  followed ID is optional (R50-55, U50, J3, D50-57, RP5, RP6)
 It has debug function and isn't required for working of card.
+Don't forgot solder birdge on JP6 / JP7, otherwise, card won't make video signal.
 
 
 
