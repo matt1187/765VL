@@ -41,7 +41,7 @@ It has debug function and isn't required for working of card.
 
 # Bill of material
 
-- [![csv-file ](https://github.com/matt1187/765VL/blob/main/gerber/765VL000.csv')]
+- [![csv-file ](https://github.com/matt1187/765VL/blob/main/gerber/765VL000.csv.txt)]
 - [![Config strap (R100-R150 ), here a picture of config strap resistor ](https://github.com/matt1187/765VL/blob/main/pictures/)
 
 # driver & ROM 
