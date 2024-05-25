@@ -4,7 +4,7 @@ A spinoff of  failed old project for 486 platform: S3 Trio64V+ with 2MB DRAM.
 It is just a  Replica of  STB Powergraph 64V VLB with addition of few hardware for ViRGE (86C325).
 Full history ->  https://www.vogons.org/viewtopic.php?f=63&t=76647
 
-![pictures](https://github.com/matt1187/765VL/blob/main/picture/765VL_000.jpg)
+![pictures](https://github.com/matt1187/765VL/blob/main/pictures/765VL-000.jpg)
 
 # PCB Revision History  (attention, two PCB type )
 - 325VL-000 initial draft
