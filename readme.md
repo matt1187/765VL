@@ -39,8 +39,6 @@ It has debug function and isn't required for working of card.
 - Don't forgot solder birdge on JP6 / JP7, otherwise, card won't make video signal.
  
 
-# Pictures
-
 # Bill of material
 
 - [![csv-file ](https://github.com/matt1187/765VL/blob/main/gerber/765VL000.csv')]
