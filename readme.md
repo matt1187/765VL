@@ -36,7 +36,7 @@ Quote of mkarcher "As S3VBE20 is not "free/open source software", I don't have a
 - it would work with S3 ViRGE (86C325), but major bug on VLB interface and no driver for ViRGE VLB is available.
 - all component with  followed ID is optional (R50-55, U50, J3, D50-57, RP5, RP6)
 It has debug function and isn't required for working of card.
-
+- Don't forgot solder birdge on JP6 / JP7, otherwise, card won't make video signal.
  
 
 # Pictures
@@ -55,10 +55,6 @@ It has debug function and isn't required for working of card.
 - [![Windows NT 3.51 driver](https://github.com/matt1187/765VL/blob/main/driver/STB_Powergraph64V_drivers_WINNT4_from_S3.zip)]
 - [![Windows NT 4 driver](https://github.com/matt1187/765VL/blob/main/driver/STB_Powergraph64V_drivers_WINNT351_from_S3.zip)]
 
-# note
-all component with  followed ID is optional (R50-55, U50, J3, D50-57, RP5, RP6)
-It has debug function and isn't required for working of card.
-Don't forgot solder birdge on JP6 / JP7, otherwise, card won't make video signal.
 
 
 
