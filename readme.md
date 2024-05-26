@@ -24,7 +24,7 @@ Full history ->  https://www.vogons.org/viewtopic.php?f=63&t=76647
 - cheap Trio64V+ PCI card as component-donor.
   
 # Issues 
-- 50 MHz bus-clock -> RAMDAC isn't capable to handle of high clock (graphic artifact in DOOM). Except this issues, is video card stable.
+- 50 MHz bus-clock -> RAMDAC isn't capable to handle of high clock (graphic artifact in DOOM). Except this issues,  video car is stable.
 - some motherboard (SIS 496/497, UM8810  ) doesn't work with zero waitstate of 765VL.
 - some issues with zero waitstate (win 3.1 artificial, crash) VLB interface buggy ? -> original STB card runs with 1 waitstate.
 - small SOJ-40 footprint requires good solder skill. (It works fine with stencil )
