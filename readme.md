@@ -33,7 +33,7 @@ Full history ->  https://www.vogons.org/viewtopic.php?f=63&t=76647
 
 Quote of mkarcher "As S3VBE20 is not "free/open source software", I don't have a license to modify it, to run modified versions, and certainly not to distribute modified versions, though. If you want to take the legal risk yourself, get S3VBE/Core 2.0 version 3.18, understand that the terms of use explicitly state that the license for using, copying and distributing only applies "if you don't modify the files in this package in any way", so you certainly wouldn't undo the LZEXE compression, and patch the byte at offset 0x2d2f from 0x75 to 0xEB."
 
-# note
+# notes
 - it would work with S3 ViRGE (86C325), but major bug on VLB interface and no driver for ViRGE VLB is available.
 - all component with  followed ID is optional (R50-55, U50, J3, D50-57, RP5, RP6)
 It has debug function and isn't required for working of card.
