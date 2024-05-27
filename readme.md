@@ -19,6 +19,7 @@ Full history ->  https://www.vogons.org/viewtopic.php?f=63&t=76647
 - one of  fastest video card for VESA local bus platform. (only ARK 1000VL is faster in DOS, on edge!)
 - 2 MB DRAM
 - 135 MHz integrated RAMDAC
+- DDC2B interface
 - rock solid  40 MHz bus-clock with zero wait-state
 - Win 3.1, Win9x, Win NT 3.51 & 4 driver available
 - cheap Trio64V+ PCI card as component-donor.
