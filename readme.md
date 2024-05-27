@@ -36,8 +36,8 @@ Quote of mkarcher "As S3VBE20 is not "free/open source software", I don't have a
 # notes
 - it would work with S3 ViRGE (86C325), but major bug on VLB interface and no driver for ViRGE VLB is available.
 - all component with  followed ID is optional (R50-55, U50, J3, D50-57, RP5, RP6)
-It has debug function and isn't required for working of card.
-- Don't forgot solder birdge on JP6 / JP7, otherwise, card won't make video signal.
+It has debug function and aren't required for card functionally.
+- Don't forgot solder birdge on JP6 / JP7, otherwise the card won't generate any videosignal.
  
 
 # Bill of material
