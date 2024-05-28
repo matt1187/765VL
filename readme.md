@@ -23,6 +23,7 @@ Full history ->  https://www.vogons.org/viewtopic.php?f=63&t=76647
 - rock solid  40 MHz bus-clock with zero wait-state
 - Win 3.1, Win9x, Win NT 3.51 & 4 driver available
 - cheap Trio64V+ PCI card as component-donor.
+- cheap 2 layer platine layout (and stable up to 90 MHz DRAM clock with S3 ViRGE )
   
 # Issues 
 - 50 MHz bus-clock -> RAMDAC isn't capable to handle of high clock (graphic artifact in DOOM). Except this issues,  video card is stable.
