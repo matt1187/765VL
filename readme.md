@@ -27,8 +27,8 @@ Full history ->  https://www.vogons.org/viewtopic.php?f=63&t=76647
   
 # Issues 
 - 50 MHz bus-clock -> RAMDAC isn't capable to handle of high clock (graphic artifact in DOOM). Except this issues,  video card is stable.
-- some motherboard (SIS 496/497, UM8810  ) doesn't work with zero waitstate of 765VL.
-- some issues with zero waitstate (win 3.1 artificial, crash) VLB interface buggy ? -> original STB card runs with 1 waitstate.
+- some motherboard (SIS 496/497, UM8810  ) doesn't work with zero waitstate of 765VL. -> Pleas use STB ROM with 1 waitstate.
+- some issues with zero waitstate (win 3.1 artificial, crash) VLB interface buggy ? -> This is why, STB card runs with 1 waitstate.
 - small SOJ-40 footprint requires good solder skill. (It works fine with stencil )
 - no official S3 VBE 2.0  with linear framebuffer support. (it requires modification of S3VBE318.EXE)
 
