@@ -28,6 +28,7 @@ Full history ->  https://www.vogons.org/viewtopic.php?f=63&t=76647
 # Issues 
 - 50 MHz bus-clock -> RAMDAC isn't capable to handle of high clock (graphic artifact in DOOM). Except this issues,  video card is stable.
 - some motherboard (SIS 496/497, UM8810  ) doesn't work with zero waitstate of 765VL. -> Pleas use STB ROM with 1 waitstate.
+- 765VL doesn't work with Alaris Leopard (486SLC2 Motherboard)
 - some issues with zero waitstate (win 3.1 artificial, crash) VLB interface buggy ? -> This is why, STB card runs with 1 waitstate.
 - small SOJ-40 footprint requires good solder skill. (It works fine with stencil )
 - no official S3 VBE 2.0  with linear framebuffer support. (it requires modification of S3VBE318.EXE)
@@ -39,6 +40,7 @@ Quote of mkarcher "As S3VBE20 is not "free/open source software", I don't have a
 - all component with  followed ID is optional (R50-55, U50, J3, D50-57, RP5, RP6)
 It has debug function and aren't required for card functionally.
 - Don't forgot solder birdge on JP6 / JP7, otherwise the card won't generate any videosignal.
+- STB ROM with 1 waitstate is recommended. ROM with 0 WS is fast and has few issues.
  
 
 # Bill of material
