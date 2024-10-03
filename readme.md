@@ -7,6 +7,8 @@ It is just a  Replica of  STB Powergraph 64V VLB with addition of few hardware f
 Full history ->  https://www.vogons.org/viewtopic.php?f=63&t=76647
 
 ![pictures](https://github.com/matt1187/765VL/blob/main/pictures/765VL-000.jpg)
+![grafik](https://github.com/user-attachments/assets/fe7bcec5-39e4-4ffe-892e-5d47b6fc1c81)
+
 
 # PCB Revision History  (attention, two PCB type )
 - 325VL-000 initial draft
