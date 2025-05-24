@@ -1,5 +1,5 @@
 # Project  S3 Trio64V+ VLB  aka  ET4000 & ARK1000VL hunter
-"Making a Concurrent for Creative 3D Blaster VLB"
+It was "Making a Concurrent for Creative 3D Blaster VLB"
 
 A spinoff of  failed old project for 486 platform: S3 Trio64V+ with 2MB DRAM.
 It is just a  Replica of  STB Powergraph 64V VLB with addition of few hardware for ViRGE (86C325).
