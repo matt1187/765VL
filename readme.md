@@ -48,6 +48,7 @@ It has debug function and aren't required for card functionally.
 # Bill of material
 
 - [![csv-file ](https://github.com/matt1187/765VL/blob/main/gerber/765VL000.csv.txt)]
+- [![gerber-file ](https://github.com/matt1187/765VL/blob/main/gerber/gerber.zip)]
 - [Config strap (R100-R150 ), here a picture of config strap resistor ](https://github.com/matt1187/765VL/blob/main/pictures/765VL_configstrap.jpg)
 
 # driver & ROM 
@@ -72,3 +73,4 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+
