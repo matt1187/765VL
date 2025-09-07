@@ -13,7 +13,7 @@ Full history ->  https://www.vogons.org/viewtopic.php?f=63&t=76647
 # PCB Revision History  (attention, two PCB type )
 - 325VL-000 initial draft
 - 765VL-000 spinoff of 325VL-000 included bug fixing (DDC interface, config strap ), removed discrete adress decoder
-- 325VL-001 added SAUP2 delaying, added s3d logo
+- 325VL-001 developed from  765VL-000, added SAUP2 delaying, added s3d logo
 - 765VL-001 (only future use,  remove debug-part with LED, SOIC-24 instead TSSOP-24, added Diode for VGA 5V+ DDC )
 
 # Feartures
@@ -73,4 +73,5 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+
 
